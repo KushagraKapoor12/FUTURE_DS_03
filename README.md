@@ -1,8 +1,19 @@
-# FUTURE_DS_03
-Task 3 - Netflix Dashboard Analysis
-Created an Excel dashboard using pivot tables showing:
+# Task 3: Netflix Dashboard Analysis
+
+## Objective
+Build an interactive Excel dashboard to analyze Netflix dataset.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+
+## Insights
 - Content type distribution
 - Release trend by year
-- Top countries by content count
+- Top countries producing content
 - Rating distribution
-- Movie duration distribution
+- Duration distribution
+
+## Outcome
+Created a Netflix analytics dashboard using Excel to visualize key content trends.
